@@ -12,8 +12,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/fabianl16/actualSalesTest
-cd actualSalesTest
+git clone https://github.com/fabianl16/integrationTest.git
+cd integrationTest
 ```
 2.Install PHP dependencies:
 ```
